@@ -1,0 +1,6 @@
+﻿VERİ BİLİMİ
+Veri bilimi, iş için anlamlı öngörüler ayıklamak amacıyla veriler üzerinde gerçekleştirilen çalışmaların adıdır. Büyük miktardaki verileri analiz etmek için matematik, istatistik, yapay zeka ve bilgisayar mühendisliği alanlarının ilke ve uygulamalarını bir araya getiren, disiplinler arası bir yaklaşımdır. Bu analiz, veri bilimcilerinin ne olduğu, neden olduğu, ne olacağı ve sonuçlarla neler yapılabileceğini sormalarına ve bu soruları cevaplamalarına yardımcı olur.
+
+MAKİNE ÖĞRENMESİ
+Makine öğrenimi (ML), tükettikleri verilere göre öğrenen ya da performansı iyileştiren sistemler oluşturmaya odaklanan bir yapay zeka (AI) alt kümesidir. Yapay zeka, insan zekasını taklit eden sistemler veya makineler anlamına gelen kapsamlı bir terimdir. Makine öğrenimi ve yapay zeka genellikle bir arada değerlendirilir. Kimi durumlarda birbirinin yerine kullanılır ancak aynı anlama gelmezler. Tüm makine öğrenimi çözümleri yapay zeka iken tüm yapay zeka çözümlerinin makine öğrenimi olmaması önemli bir ayrımdır.
+
